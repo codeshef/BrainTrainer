@@ -82,7 +82,7 @@
                 android:layout_gravity="fill"
                 android:tag="0"
                 android:id="@+id/button0"
-                android:textSize="80sp"
+                android:textSize="60sp"
                 android:background="#ff00ddff"
                 android:onClick="chooseAnswer" />
 
@@ -97,7 +97,7 @@
                 android:layout_gravity="fill"
                 android:tag="1"
                 android:id="@+id/button1"
-                android:textSize="80sp"
+                android:textSize="60sp"
                 android:background="#ff99cc00"
                 android:onClick="chooseAnswer" />
 
@@ -112,7 +112,7 @@
                 android:layout_gravity="fill"
                 android:tag="2"
                 android:id="@+id/button2"
-                android:textSize="80sp"
+                android:textSize="60sp"
                 android:background="#ff99cc00"
                 android:onClick="chooseAnswer" />
 
@@ -127,7 +127,7 @@
                 android:layout_gravity="fill"
                 android:tag="3"
                 android:id="@+id/button3"
-                android:textSize="80sp"
+                android:textSize="60sp"
                 android:background="#ff00ddff"
                 android:onClick="chooseAnswer" />
         </GridLayout>
